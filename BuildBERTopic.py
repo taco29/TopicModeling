@@ -19,7 +19,7 @@ def preprocess(text, stop_words):
 if __name__ == "__main__":
 
     docs = []
-    folder_path = r"C:\Users\Admin\Code\Social Listening\TopicModeling\data"
+    folder_path = ""
 
     for file_name in os.listdir(folder_path):
         if file_name.endswith('.txt'):
