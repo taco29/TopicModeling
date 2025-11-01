@@ -41,7 +41,6 @@ if __name__ == "__main__":
     )
 
     topics, _ = topic_model.fit_transform(docs)
-    hdbscan_model = HDBSCAN(min_cluster_size=2)
 
     info = topic_model.get_document_info(docs)
     print(info)
