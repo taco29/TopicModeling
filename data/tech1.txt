@@ -1,0 +1,19 @@
+Chinese startup Noetix Robotics has developed a humanoid robot priced lower than an iPhone by redesigning its components, structure, and production chain from the ground up.
+
+Noetix recently unveiled Bumi, a 94-cm humanoid robot priced at 9,998 yuan (US$1,380), slightly less than Apple’s iPhone 17 Pro Max that starts at 9,999 yuan in China , according to TechNode.
+
+The robot quickly became one of the most discussed entries in China’s rapidly expanding humanoid robotics market. Noetix said over 100 units were sold in the first hour, and the first 500 were gone within two days on the e-commerce platform JD.com.
+
+Founder Jiang Zheyuan said the company reached the record-low price by focusing on three key cost pillars: vertical integration, structural rework, and a localized supply chain.
+
+A person holds Bumi, the 94cm humanoid robot developed by Chinese firm Noetix Robotics. Photo courtesy of Noetix Robotics
+
+Zheyuan explained that Noetix’s vertical integration strategy involves designing its own control boards and motor drivers instead of purchasing standard modules. This approach eliminates supplier markups and improves hardware–software performance optimization.
+
+For structural rework, the team adopted composite materials reinforced with metal only where necessary, reducing Bumi’s weight to 12 kilograms. The lighter design allowed the use of smaller motors and batteries, leading to cascading cost reductions.
+
+Nearly all of Bumi’s components, including motors, sensors, and Rockchip processors, are sourced domestically, leveraging China’s dense manufacturing ecosystem for faster development and lower logistics costs, Zheyuan said.
+
+Unlike full-size humanoid robots in the U.S. and other markets, which cost 30 to 100 times more, Bumi is designed for education and entertainment rather than heavy industrial or household labor, Interesting Engineering reported. Noetix said the compact design makes Bumi more child-friendly and suitable for classrooms and living rooms.
+
+The robot integrates with JD.com’s Joy Inside 2.0 ecosystem and supports open programming interfaces. Noetix aims to scale production to 1,000 units per month by late 2025.

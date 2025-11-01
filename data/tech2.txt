@@ -1,0 +1,15 @@
+The Unitree G1 humanoid robot, trained by the Beijing Academy of Artificial Intelligence (BAAI), has demonstrated its strength and agility by pulling a 1.4-ton car across a flat surface.
+
+In a video posted on BAAI’s X account on Oct. 27, the G1 is seen straining to pull a car across a parking area. After briefly struggling for traction, it crouched slightly to stabilize itself and successfully dragged the vehicle forward, according to Interesting Engineering .
+
+The demonstration adds to the G1’s previous accomplishments, which include walking, jumping, and performing backflips . Experts say the experiment reflects a broader effort to train humanoids to maintain balance and function in real-world environments before industrial or service deployment.
+
+Digital Trends reported that the G1’s ability to stay balanced and steady while hauling a car highlights its advanced AI-powered control and dynamic coordination. Such capabilities could make humanoids like the G1 suitable for warehouse work, search-and-rescue operations in debris-filled areas, or healthcare tasks that require precise movement.
+
+The video quickly gained attention online, with some viewers praising the feat. "If there’s no remote control, it’s really impressive," one person commented on X, as quoted by Interesting Engineering . Another user humorously suggested the robot should wear Timberland boots for better traction.
+
+However, others questioned the authenticity of the experiment, speculating that it may have been staged or digitally enhanced. "The concept is fake. 1400kg means nothing. The real pulling force required depends on the coefficient of friction between the rolling wheels and the floor," one commenter wrote.
+
+The presence of a driver inside the car also sparked debate, even though the video noted that the person was there for safety reasons. "And how much pedal is being used by the guy inside the car?" another user asked.
+
+The G1 is an upgraded version of the Unitree H1. Standing 1.3 meters tall and weighing 35 kg, it is smaller and lighter than the H1, which stands 1.8 meters and weighs 47 kg. Priced from about US$16,000, the G1 is designed for advanced mobility, human interaction, and autonomous behavior. Equipped with multiple sensors and multi-jointed limbs, the robot can run, climb stairs, and even perform martial arts moves .

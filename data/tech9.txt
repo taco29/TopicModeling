@@ -1,0 +1,23 @@
+As Singapore's tech job market cools, experts warn that up to 80% of the country’s tech talents could face limited job opportunities, with demand remaining strong for the remaining 20%.
+
+According to job platform Indeed, from May to August 2024, job postings related to IT infrastructure, operations, and support fell by 17.6%, while data and analytics roles dropped by 15.9%, reported Business Times .
+
+The sharp salary increases of 30 to 50% seen during the Covid 19 era have also largely disappeared. NodeFlair, a Singapore-based tech career platform, found in its 2024 tech salary report that the salary increase for software engineers was only 3.3%.
+
+The Singapore Digital Economy Report, published by the Infocomm Media Development Authority (IMDA), noted a decline in demand for web development skills, particularly in languages like java script, HTML, and CSS.
+
+However, demand for tech professionals with expertise in AI remains robust. "The top 10 to 20% of tech talents will be highly sought after," Ethan Ang, CEO of NodeFlair told The Business Times . Some of these top professionals may even receive multiple job offers, he added.
+
+Two people work in front of computer. Photo by Pexels
+
+Singapore has become a leader in AI talent demand, with one in six local job postings on Indeed now mentioning AI skills. The IMDA report also highlighted a shift in the types of tech skills employers are seeking. Over the past five years, programming languages like Python and SQL have become increasingly desirable.
+
+There has also been a marked rise in job postings requiring expertise in cloud platforms, scalable digital infrastructure, and AI technologies such as machine learning, natural language processing, and neural networks, as reported by The Straits Times .
+
+"These skills... have become more important as firms seek to scale their digital services more efficiently," the IMDA said.
+
+This shift means that holding a degree alone is no longer sufficient. Richard Farmer, managing director for Asia at talent firm CXC, stressed that tech companies are prioritising experienced professionals, so fresh graduates should acquire hands-on experience through internships to thrive in high-pressure work environments.
+
+Despite these challenges, fresh graduates should not be discouraged. The demand for tech professionals remains steady, with the workforce growing by 2.7%, from 208,300 in 2023 to 214,000 in 2024, according to IMDA. Median monthly salaries for tech professionals have risen to S$7,950 (US$6,138) in 2024, up from S$7,000 the previous year, higher than Singapore’s median wage of S$4,860.
+
+Moreover, tech professionals in the city-state do not need to work for major tech firms to earn high salaries. Tech roles in non-tech companies are growing nearly four times faster than those in traditional tech firms, with these positions now surpassing the latter in total headcount, according to Singapore’s The Independent newspaper.

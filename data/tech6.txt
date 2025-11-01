@@ -1,0 +1,23 @@
+Meta is cutting around 600 positions out of the several thousand roles in its Superintelligence Labs, the Facebook owner said on Wednesday as it looks to make its artificial intelligence unit more flexible and responsive.
+
+The job cuts will affect Facebook Artificial Intelligence Research (FAIR) unit, as well as teams focused on product-related AI and AI infrastructure, the company said.
+
+The newly formed TBD Lab, which comprises "a few dozen" researchers and engineers developing Meta's next-generation foundation models, will not be affected.
+
+Axios first reported the job cuts announcement, citing a company memo.
+
+Chief AI Officer Alexandr Wang said fewer team members would streamline decision-making and increase the responsibility, scope and impact of each role.
+
+The company said it was encouraging affected employees to apply for other jobs within Meta.
+
+Meta on Tuesday struck a $27 billion financing deal with Blue Owl Capital, the company's largest-ever private capital agreement, to fund its biggest data center project.
+
+Some analysts said the deal will allow Meta to achieve its massive AI ambitions by shifting much of the upfront cost and risk to external capital, while retaining a smaller ownership share in the project.
+
+The parent of Facebook and Instagram reorganized its AI efforts under Superintelligence Labs in June after senior staff departures and a poor reception for its open-source Llama 4 model.
+
+CEO Mark Zuckerberg personally led an aggressive hiring spree for the unit to revitalize Meta's AI efforts.
+
+Superintelligence Labs includes Meta's foundations, product and FAIR teams as well as TBD Lab that is focused on developing the company's next generation of AI models.
+
+The company began investing in AI in 2013 by launching FAIR unit and recruiting Yann LeCun, its chief AI scientist, to lead the effort and building a global research network focused on deep learning.

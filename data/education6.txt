@@ -1,0 +1,21 @@
+From an economics graduate in Ho Chi Minh City to an AI specialist at Delta Air Lines, Nguyen Khanh Vy's journey shows how bold career pivots can lead to groundbreaking opportunities.
+
+At Delta, the 100-year-old U.S. airline that runs about 4,000 flights a day worldwide, Vy and her team developed AI tools that analyze data and predict flight operations, from gate assignments to route and weather suggestions.
+
+Most recently, Vy, who works in machine learning and artificial intelligence, rolled out an AI system that summarizes the long reports pilots often send in after flights. "Pilots often send 'letters from the heart' about problems during flights. With thousands of pilots, handling them manually took too long," the 28-year-old said. "The processing efficiency has improved significantly since the airline adopted this AI tool."
+
+Vy's path to aviation AI was anything but straightforward. After earning an economics degree in 2019, she studied for an MBA in Florida, then worked in data management at a U.S. consumer goods company. Struggling with limited technical skills, she quit to pursue a master's in data science at the University of Pennsylvania. There, a class on AI reasoning, and the rise of generative AI tools like ChatGPT, sparked her deeper interest.
+
+She immersed herself in research, reading three to four papers a week and critiquing AI systems. "I gradually realized AI would play a crucial role in every field, including data, so I decided to dig deeper," she recalled.
+
+She went on to build AI tools like a research summarizer for IEEE and a chatbot that supported psychological studies for hundreds of patients.
+
+Graduating in late 2024, Vy beat six rounds of selection to land her job at Delta. Four stages tested her technical knowledge and cultural fit, while two involved ability assessments.
+
+Outside work, Vy shares AI knowledge with young learners. For advanced groups, she demonstrates how to train AI on domain-specific data and integrate tools like ChatGPT into workflows. For broader audiences, she teaches simple uses such as learning English with AI and writing better prompts.
+
+Dinh Ngoc Thanh, vice president of the Global Vietnamese Young Intellectuals Network, said Vy has a rare ability to make AI approachable: "Vy has the talent for sharing knowledge and always prepares her lessons in a clear and structured way."
+
+Vy believes the right mindset is to treat AI as a collaborator. She illustrates this with how she teaches people to research pollution in Hanoi using ChatGPT: instead of typing "write me a report on environmental pollution," she suggests providing a structure, requiring data and sources, and enabling search tools.
+
+"If we set up the framework, inputs and outputs clearly with transparency, the results will be much better," she said.

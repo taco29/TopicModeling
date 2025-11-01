@@ -1,0 +1,69 @@
+Many programmers are turning to AI to write codes with the vibe coding trend, but full trust in the technology is still a step too far for many.
+
+Vibe coding originally described an intuitive style of programming that prioritizes functionality over structure or detail, but now refers to the practice of developing software with AI assistance, where users describe functions in natural language and the AI generates and adjusts the code until it works.
+
+In most cases, users only need to focus on whether the software functions and its overall interface and experience rather than understanding the code itself.
+
+Hoang Long, a developer at a tech company in HCMC, said he has been using vibe coding for about three months. He uses multiple AI tools, including Anthropic’s Claude for complex tasks, Google Gemini Pro for Google-related applications and OpenAI’s ChatGPT for debugging.
+
+He also experiments with open-source and Vietnamese tools such as LunaBase and Bizino AI.
+
+"Using AI cuts my work time by half or even two-thirds compared to writing every line of code myself. I can also finish simple side projects faster, for instance small games or utility apps for the App Store or Play Store."
+
+Luna Base AI allows users to create websites with simple commands without deep programming knowledge. Photo by VnExpress/Bao Lam.
+
+Universal Techlab, a mobile app startup based in Da Nang, said it has adopted vibe coding as a core part of its development process.
+
+"Since discovering vibe coding, we’ve used it in many projects," Phan Duc Thang, its co-founder and chief technology officer, said.
+
+He said the company uses AI in most stages of a project — from ideation and technology research to completion and operation — and trains employees to use AI according to their roles.
+
+Over the past few months vibe coding has reduced the company’s product development time by 30–50%, helped optimize simple tasks and manage complex technical research, he said.
+
+But his company remains cautious about AI risks, he said.
+
+"Some AI models collect data, which can lead to legal risks or source code leaks, and so our software testing process must be thorough."
+
+Nguyen Duc Hoai, co-founder and CEO of Bizino, the company behind the Bizino AI programming support software, said vibe coding is becoming popular not only among software companies but also non-programming businesses.
+
+He said it now functions like an employee within the company rather than a no-code tool.
+
+"No-code is like assembling a Lego set with pre-made parts — you put together walls, windows and roofs to build a house.
+
+"Vibe coding is like managing a construction team of AI robots. You don’t have to place each brick yourself; you just give instructions, like ‘build a wall here,’ and the AI executes it."
+
+He said vibe coding is attracting programmers as AI tools like GitHub Copilot, ChatGPT and Claude become more widely used. Bizino also uses other vibe coding tools in developing Bizino AI.
+
+A 2024 report by the Vietnam Software and IT Services Association shows Vietnamese companies spend 40-60 percent of development time on prototyping and testing.
+
+Andrew Pham, founder and CEO of Luna Base AI, which developed the AI Agent for automated programming, called that figure excessive, saying half of a company’s time could be wasted if it doesn’t use AI for product creation.
+
+Pham said vibe coding could not turn someone into a programmer, but enables experts in any field to create software without coding skills.
+
+For example, a doctor can set up an automated appointment system by describing the workflow and letting AI handle the technical details.
+
+He said vibe coding empowers people to solve problems by creating their own software.
+
+"We won’t have eight billion programmers in the future, but eight billion people solving their own problems with AI."
+
+Le Duy Tan, co-founder of the AIoT Lab VN at the International University at the Vietnam National University HCMC, said vibe coding simplifies technical tasks and shortens the time from ideation to prototype.
+
+"Vibe coding helps small businesses and startups with limited resources test ideas quickly. They can drop failed prototypes and invest in specialized coding only if the idea proves successful."
+
+Tan said creating quality products requires a certain level of coding knowledge. Otherwise, programmers can become "AI janitors" who spend most of their time monitoring and rewriting code to verify accuracy. He said using confidential data to train AI could expose businesses to information and trade secret leaks.
+
+He said vibe coding can make programmers become too dependent on AI and focus only on writing prompts instead of improving their ability to read, debug, and design codes.
+
+"When programmers rely too heavily on AI, they may lose core programming skills and struggle when AI ‘hallucinates,’ and generate inaccurate content," he said.
+
+"We can avoid this dependency if every critical code line is approved by humans," Pham said. "AI handles execution, humans handle reasoning."
+
+Pham Duc Dat, head of the AIoT Lab VN technical team, said the biggest concern with vibe coding is security. He said AI-generated code is "not perfect" and may contain vulnerabilities, logic errors, or unsafe default settings.
+
+Dat said companies that adopt vibe coding should apply strict control procedures, including static code scanning, sandbox testing, expert reviews, and runtime monitoring.
+
+Pham said Vietnam’s education system needs to adapt, starting from the college level. "We cannot keep teaching students to memorize syntaxes when AI can do it better. They need to learn how to think, design, evaluate, and manage AI systems," he said.
+
+Tan said Vietnam needs an ecosystem to support vibe coding, with clear digital laws, AI regulations, and rules on source code ownership, data privacy, and liability for security issues.
+
+"Software will evolve from a static product into a flexible service with vibe coding," Hoai said. "As AI advances, humans must focus more on strategy, creativity, and understanding—things machines cannot replace."

@@ -1,0 +1,21 @@
+Tan Han Wei, founder of Sustainable Hrvest, a smart farming solutions provider in Puchong, Selangor, is helping durian farmers in Malaysia optimize yields using smart sensors and 5G technology.
+
+Many durian farmers previously struggled to understand why some areas of their farms yielded better results than others, Tan, a former R&D engineer, told LifestyleTech . In the absence of precise data, farmers often relied on guesswork or experience, instructing workers to water more or add fertilizer, leading to inconsistent results.
+
+To tackle these challenges, Tan suggested using sensors near selected trees to measure key soil health factors. The data collected is sent to the cloud for analysis. After several months of gathering data, farmers could identify issues affecting tree productivity, The Star reported. For instance, the sensors detected waterlogging and excess moisture in certain soil areas, conditions he described as "very bad" for durian trees due to poor nutrient absorption and potential root rot.
+
+Musang King durian. Photo from Instagram
+
+The sensors, connected to an automatic sprinkler system, also monitor temperature changes, helping farmers cool the surrounding area and protect trees from heat stress. By providing farmers with actionable data, he said they were able to optimize farm management, reduce resource waste, and improve operational efficiency. "Trees are just like humans; they need to be understood first, and only then can they reach their full potential."
+
+After the success in Puchong, durian farmers in other major durian-growing regions have shown increased interest in adopting the technology. Penang, which grows over 30 varieties of durian, introduced a track-and-trace system recently to ensure the authenticity and quality of its durian, Malay Mail reported. The system provides visibility throughout the production process, from farm to retailer, addressing concerns that imported Thai durians were being misrepresented as local Penang produce.
+
+Tan is also developing an AI-powered pest detection system. Using cameras to monitor multiple farms, the system can identify early signs of pest outbreaks with an accuracy rate of around 70%.
+
+While sensors provide valuable data, Tan noted that much of it remains underutilized due to limited connectivity. He believed the rollout of 5G will unlock new possibilities for real-time data analysis, automation, and large-scale monitoring. "Overall, I see 5G as a key enabler for scaling precision agriculture allowing for much larger and more complex operations to be monitored and managed remotely, in real time," he said.
+
+He is also excited about the concept of a 'digital agronomist', AI-powered experts to monitor tree conditions remotely and conduct live streaming farm tours to engage investors or buyers. However, he acknowledged challenges in integrating 5G into farming environments, noting that connectivity and costs remain major concerns for smaller farms in rural areas. Many farmers are also unfamiliar with 5G’s potential beyond faster internet.
+
+Despite these challenges, he believes that farmers are becoming more open to adopting technology. "When farmers see that technology helps them solve real problems, they become more willing to adopt it," he said. "Also, ­rising costs, climate challenges, and labor shortages are pushing them to explore smarter solutions."
+
+When asked about his motivation to explore how technology could enhance durian farming, Tan quipped, "I like to eat durian!"

@@ -1,0 +1,47 @@
+Amazon's cloud services unit AWS was recovering on Monday from a widespread outage that knocked out thousands of websites along with some of the world's most popular apps, Snapchat and Reddit, and disrupted businesses globally.
+
+The turmoil marked the largest internet disruption since last year's CrowdStrike malfunction hobbled technology systems in hospitals, banks and airports, and highlights the vulnerability of the world's interconnected technologies.
+
+After roughly three hours of disruptions, systems were gradually coming back online as of 6 a.m. ET (1000 GMT), with AWS saying it was seeing "significant signs of recovery" for some impacted services. "Most requests should now be succeeding. We continue to work through a backlog of queued requests," it said in the latest update on the outage posted on its status page.
+
+Issue should be resolved in coming hours, expert says
+
+AWS provides on-demand computing power, data storage and other digital services to companies, governments and individuals. Disruptions to its servers can cause outages across websites and platforms that rely on its cloud infrastructure.
+
+AWS competes with Google and Microsoft's cloud services.
+
+Asked for comment on the outage, AWS directed Reuters to its status page. Amazon did not respond to a request for comment.
+
+Junade Ali, a software engineer, cyber expert and Fellow at the Institution of Engineering and Technology, said the issue appeared to be with one of the networking systems AWS uses to control a database product.
+
+"As this issue can usually be resolved centrally ... unless there are further issues identified, the issue should be able to be mitigated over the coming hours," he said.
+
+Initial signs of recovery
+
+Ookla, owner of outage tracking website Downdetector, said over 4 million users reported issues due to the incident.
+
+Issues on some apps and websites, including Snapchat, Roblox, streaming site Max and PayPal's Venmo were showing signs of easing, according to Downdetector.
+
+Snapchat last had over 4,000 reports on Downdetector, down from an earlier peak of more than 22,000, while reports on Roblox dropped to less than 500 from a peak of over 12,600.
+
+Other services, however, remained affected, with thousands of reports for social media app Reddit and financial platform Chime on Downdetector.
+
+AI startup Perplexity, cryptocurrency exchange Coinbase and trading app Robinhood all experienced platform disruptions and attributed them to AWS.
+
+Amazon's own services, including its shopping website, Prime Video and Alexa, were also hit, although Downdetector last showed a decrease in severity.
+
+Fortnite, owned by Epic Games, along with Clash Royale and Clash of Clans were among the gaming platforms affected. Uber rival Lyft was also knocked down in the United States.
+
+In a post on X, Signal's President Meredith Whittaker confirmed the messaging app was hit by the outage as well, though billionaire Elon Musk, who owns X, said his platform continued to work.
+
+Outage exposes risk of dependence on handful of providers
+
+In Britain, Lloyd Bank, Bank of Scotland and telecom service providers Vodafone and BT were also facing issues, according to Downdetector's UK website, as was UK tax, payments and customs authority HMRC's website.
+
+The problem highlights how interconnected everyday digital services have become and how reliant they now are on a small number of global cloud providers, with one glitch causing havoc with business and day-to-day life, experts and academics said.
+
+"The main reason for this issue is that all these big companies have relied on just one service," said Nishanth Sastry, Director of Research at the University of Surrey's Department of Computer Science. While there has been no indication yet of a potential cyberattack behind Monday's outage, the scale of the disruption has fed speculation.
+
+"When anything like this happens, the concern that it's a cyber incident is understandable," said Rafe Pilling, director of threat intelligence at cybersecurity firm Sophos.
+
+"AWS has a far-reaching and intricate footprint, so any issue can cause a major upset."

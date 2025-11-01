@@ -1,0 +1,19 @@
+A Tesla driver was propelled into the air after an explosion caused by a third-party charger at a non-Tesla charging station in Hope, British Columbia.
+
+The recently released footage of the incident, which occurred in August 2024, shows the driver standing next to the vehicle when a sudden explosion sent a flame into the sky , followed by a thick cloud of smoke, Daily Mail reported.
+
+The blast caused the driver to stumble and fall before regaining his balance. A passenger in the car appeared unharmed and immediately ran to check on the driver.
+
+According to a report by Technical Safety B.C., the driver had used the unapproved A2Z EV adapter approximately 50 times before the explosion occurred. The explosion resulted from a short circuit between the charging cable and the adapter, which caused an "arc-flash."
+
+The driver suffered minor scrapes and abrasions, and the vehicle was left with burn marks and significant scorching at its charging port. The adapter was severely damaged, with one part blown in half and melted, according to Canada’s CTV News .
+
+The regulator’s report explained that a Tesla requires an adapter to charge at non-Tesla stations. Tesla sells approved adapters and prohibits the use of third-party devices advertised as compatible with Tesla’s charging equipment, warning that these are dangerous.
+
+Although aftermarket adapters are available, only those manufactured by automakers and stamped with a "certification mark" are approved for use in Canada, the report noted.
+
+The manufacturer of the adapter, A2Z EV, launched an investigation into the incident. Their inspection found no defects in the adapter itself, instead attributing the malfunction to an "external ground fault originating from the charger," The Mirror reported.
+
+According to A2Z, the charger’s internal fault energized the ground circuit, causing the adapter to become a secondary path for current. "We will remain transparent with our customers, partners, and regulators as we work together to build a stronger and safer EV charging ecosystem," A2Z said in a statement.
+
+In an interview with the Vancouver Sun, the company’s CEO stated, "It’s not something that we wanted to see happen, especially not with our adapter or with any adapter on the market, because this creates fear with EVs."

@@ -1,0 +1,17 @@
+Reflect Orbital, a California-based startup, that aims to keep solar farms running at night by reflecting sunlight from space is facing criticism from astronomers who warn the plan could disrupt research that relies on dark skies.
+
+According to Bloomberg , the company has applied to the U.S. Federal Communications Commission (FCC) for permission to launch an 18 m long experimental satellite called Earendil-1 in 2026. It would be the first in a constellation of satellites that are set to redirect sunlight to specific locations, allowing solar farms to continue operating after dark. The startup plans to launch dozens more satellites in the next two years, with a goal of 4,000 active satellites by 2030.
+
+Each satellite will orbit roughly 625 km above Earth and carry mirrors 54 m wide, capable of reflecting light that is 15,000 times dimmer than sunlight at noon but still brighter than a full moon.
+
+Reflect Orbital estimates it would take around 3,000 satellites to achieve 20% of midday sunlight, with thousands more required to maintain an hour of continuous illumination, since each satellite, with a speed of 7.5 km per second, can only work for 3.5 minutes within a range of 1,000 km around a fixed location, according to Conversation .
+
+Founder Ben Nowack previously suggested deploying 250,000 satellites, a number that would exceed all active satellites and space debris combined. Even that, experts say, would only provide 20% of mid-day sunlight for 80 locations at once.
+
+The plan was backed by Sequoia Capital and tech billionaire Baiju Bhatt. But astronomers warn of serious side effects. Anthony Tyson, science director at the Rubin Observatory, said the reflected light could affect sensitive astronomy cameras. A survey by the American Astronomical Society in August found that over 1,400 scientists believed their work would be disrupted by Reflect Orbital’s project.
+
+Meredith Rawls, an astronomer at the University of Washington, warned that artificial night light could disturb nocturnal species such as moths, frogs and bats, causing harm to the ecosystem. Light pollution can also have negative effects on people’s health.
+
+Reflect Orbital said it would assess environmental impacts and work with local communities wherever its services are provided. It claims the carbon emissions from satellite launches would be offset within weeks by the extra clean energy generated from extended solar power production.
+
+According to the Satellite Industry Association, nearly 2,700 satellites were launched in 2024 alone, led by SpaceX’s Starlink, Amazon’s Kuiper, and Eutelsat OneWeb.
