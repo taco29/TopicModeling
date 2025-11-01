@@ -19,7 +19,7 @@ def preprocess(text, lemmatizer, stop_words):
     return tokens
 
 if __name__ == "__main__":
-    folder_path = r"C:\Users\Admin\Code\Social Listening\TopicModeling\data"
+    folder_path = ""
     docs = []
 
     for file_name in os.listdir(folder_path):
