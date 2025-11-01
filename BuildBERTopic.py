@@ -19,7 +19,7 @@ def preprocess(text, stop_words):
 if __name__ == "__main__":
 
     docs = []
-    folder_path = r"C:\Users\Admin\Code\Social Listening\TopicModeling\data"
+    folder_path = ""
 
     for file_name in os.listdir(folder_path):
         if file_name.endswith('.txt'):
@@ -43,9 +43,6 @@ if __name__ == "__main__":
     topics, _ = topic_model.fit_transform(docs)
 
     info = topic_model.get_document_info(docs)
-    pd.set_option('display.max_rows', None)
-    pd.set_option('display.max_columns', None)
-    pd.set_option('display.max_colwidth', None)
     print(info)
 
     for topic_id in info["Topic"].unique():
