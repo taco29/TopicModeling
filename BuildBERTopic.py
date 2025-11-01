@@ -19,7 +19,7 @@ def preprocess(text, stop_words):
 if __name__ == "__main__":
 
     docs = []
-    folder_path = ""
+    folder_path = r"C:\Users\Admin\Code\Social Listening\TopicModeling\data"
 
     for file_name in os.listdir(folder_path):
         if file_name.endswith('.txt'):
@@ -30,7 +30,7 @@ if __name__ == "__main__":
                     docs.append(text)
     print(f"Loaded {len(docs)} text files")
 
-    embedding_model = SentenceTransformer("paraphrase-MiniLM-L12-v2")
+    embedding_model = SentenceTransformer("all-mpnet-base-v2")
 
     topic_model = BERTopic(
         embedding_model=embedding_model,
@@ -43,6 +43,9 @@ if __name__ == "__main__":
     topics, _ = topic_model.fit_transform(docs)
 
     info = topic_model.get_document_info(docs)
+    pd.set_option('display.max_rows', None)
+    pd.set_option('display.max_columns', None)
+    pd.set_option('display.max_colwidth', None)
     print(info)
 
     for topic_id in info["Topic"].unique():
