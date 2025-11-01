@@ -8,8 +8,8 @@ from gensim.models import CoherenceModel
 from gensim.models.phrases import Phrases, Phraser
 import matplotlib.pyplot as plt
 
-nltk.download('stopwords', quiet = True)
-nltk.download('wordnet', quiet = True)
+nltk.download('stopwords')
+nltk.download('wordnet')
 
 def preprocess(text, lemmatizer, stop_words):
     text = text.lower()
@@ -60,7 +60,7 @@ if __name__ == "__main__":
     print(f"\nCoherence Score (4 topics): {coherence_lda:.3f}")
 
     coherence_values = []
-    topic_range = range(2, 21) 
+    topic_range = range(2, 500) 
 
     for k in topic_range:
         lda_k = models.LdaModel(
