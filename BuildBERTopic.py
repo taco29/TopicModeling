@@ -1,5 +1,8 @@
 import os
 import re
+import random
+import numpy as np
+import torch
 import pandas as pd
 from bertopic import BERTopic
 from sentence_transformers import SentenceTransformer
@@ -7,6 +10,18 @@ from nltk.corpus import stopwords
 import nltk
 from gensim.models.coherencemodel import CoherenceModel
 from gensim.corpora.dictionary import Dictionary
+
+SEED = 42
+random.seed(SEED)
+np.random.seed(SEED)
+torch.manual_seed(SEED)
+if torch.cuda.is_available():
+    torch.cuda.manual_seed_all(SEED)
+
+import umap
+import hdbscan
+umap.UMAP(random_state=SEED)
+hdbscan.HDBSCAN()
 
 nltk.download("stopwords")
 stop_words = set(stopwords.words("english"))
@@ -37,7 +52,9 @@ if __name__ == "__main__":
         verbose=True,
         language="english",
         min_topic_size=3,
-        #nr_topics="auto",
+        # nr_topics="auto",
+        calculate_probabilities=True,
+        random_state=SEED,
     )
 
     topics, _ = topic_model.fit_transform(docs)
@@ -51,7 +68,6 @@ if __name__ == "__main__":
             words = [word for word, _ in topic_model.get_topic(topic_id)]
             print(", ".join(words))
     
-    #coherence score
     tokenized_docs = [doc.split() for doc in docs]
 
     topics_words = [
