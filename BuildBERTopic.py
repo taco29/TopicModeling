@@ -10,6 +10,9 @@ from nltk.corpus import stopwords
 import nltk
 from gensim.models.coherencemodel import CoherenceModel
 from gensim.corpora.dictionary import Dictionary
+from umap import UMAP
+from hdbscan import HDBSCAN
+from sklearn.feature_extraction.text import CountVectorizer
 
 SEED = 42
 random.seed(SEED)
@@ -17,11 +20,6 @@ np.random.seed(SEED)
 torch.manual_seed(SEED)
 if torch.cuda.is_available():
     torch.cuda.manual_seed_all(SEED)
-
-import umap
-import hdbscan
-umap.UMAP(random_state=SEED)
-hdbscan.HDBSCAN()
 
 nltk.download("stopwords")
 stop_words = set(stopwords.words("english"))
@@ -34,7 +32,7 @@ def preprocess(text, stop_words):
 if __name__ == "__main__":
 
     docs = []
-    folder_path = ""
+    folder_path = "" 
 
     for file_name in os.listdir(folder_path):
         if file_name.endswith('.txt'):
@@ -47,14 +45,30 @@ if __name__ == "__main__":
 
     embedding_model = SentenceTransformer("all-mpnet-base-v2")
 
+    umap_model = UMAP(
+        n_neighbors=15,
+        n_components=5,
+        min_dist=0.0,
+        metric='cosine',
+        random_state=SEED
+    )
+
+    hdbscan_model = HDBSCAN(
+        min_cluster_size=3,
+        metric='euclidean',
+        cluster_selection_method='eom',
+        prediction_data=True
+    )
+
+    vectorizer_model = CountVectorizer(stop_words="english")
     topic_model = BERTopic(
         embedding_model=embedding_model,
+        umap_model=umap_model,
+        hdbscan_model=hdbscan_model,
+        vectorizer_model=vectorizer_model,
         verbose=True,
         language="english",
-        min_topic_size=3,
-        # nr_topics="auto",
-        calculate_probabilities=True,
-        random_state=SEED,
+        min_topic_size=3
     )
 
     topics, _ = topic_model.fit_transform(docs)
